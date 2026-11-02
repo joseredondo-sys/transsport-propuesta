@@ -1,0 +1,52 @@
+{
+  "hero": [
+    "ciclismo2-30537180",
+    "esqui2-4185218",
+    "golf2-6256823",
+    "surf-8358094",
+    "kitesurf-16577306",
+    "furgoneta-38684206"
+  ],
+  "clips": {
+    "ciclismo": {
+      "video": "/video/ciclismo.mp4",
+      "poster": "/video/ciclismo.webp",
+      "fuente": "triatlon-31312229"
+    },
+    "mtb": {
+      "video": "/video/mtb.mp4",
+      "poster": "/video/mtb.webp",
+      "fuente": "mtb-34552783"
+    },
+    "nieve": {
+      "video": "/video/nieve.mp4",
+      "poster": "/video/nieve.webp",
+      "fuente": "snowboard-20179606"
+    },
+    "esqui": {
+      "video": "/video/esqui.mp4",
+      "poster": "/video/esqui.webp",
+      "fuente": "esqui2-36959504"
+    },
+    "golf": {
+      "video": "/video/golf.mp4",
+      "poster": "/video/golf.webp",
+      "fuente": "golf2-37995788"
+    },
+    "surf": {
+      "video": "/video/surf.mp4",
+      "poster": "/video/surf.webp",
+      "fuente": "surf-7425569"
+    },
+    "kitesurf": {
+      "video": "/video/kitesurf.mp4",
+      "poster": "/video/kitesurf.webp",
+      "fuente": "kitesurf-16577306"
+    },
+    "escalada": {
+      "video": "/video/escalada.mp4",
+      "poster": "/video/escalada.webp",
+      "fuente": "escalada-5963545"
+    }
+  }
+}
